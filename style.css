@@ -1,0 +1,105 @@
+ body{ font-family: sans-serif;
+    background-color: #E06969;}
+
+
+
+
+header {
+    justify-content: space-between;
+    background-color:#FFAA00;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: black;
+    color: yellow;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    border-top: 5px solid #FFAA00;
+    border-bottom: 5px solid #FFAA00;
+    padding: 25px 100px 25px 95px;
+    margin-top: ;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding:20px ;
+    width: 400px;
+    margin:20px ;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #FFAA00;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: #FFAA00;
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+.F{
+padding: 20px;
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+    width: 70px;
+    float: right;
+    margin-top: 20px;
+
+}
+.b{
+    text-align: center;
+}
+.article-but{
+ display: flex;
+ justify-content: center;
+}
+.n{
+    text-align: center;
+}
